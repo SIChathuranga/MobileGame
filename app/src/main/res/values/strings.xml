@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Game</string>
+    <string name="maths_champ">MATHS-CHAMP</string>
+    <string name="start_game">Start Game</string>
+    <string name="level_1">Level 1</string>
+    <string name="question_1_100">Question- 1/100</string>
+    <string name="a">A:</string>
+    <string name="b">B:</string>
+    <string name="c">C:</string>
+    <string name="d">D:</string>
+</resources>
